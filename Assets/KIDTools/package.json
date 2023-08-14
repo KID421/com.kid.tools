@@ -1,0 +1,12 @@
+{
+    "name": "com.kid.unitypackage",
+    "version": "1.0.0",
+    "description": "KID 製作的工具包",
+    "unity": "2022.3.5f1",
+    "author": 
+    {
+        "name": "KID",
+        "email": "KID77421@gmail.com",
+        "url": "https://www.instagram.com/kid77421/"
+    }
+}
